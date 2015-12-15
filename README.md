@@ -2,5 +2,5 @@
 just another repository
 Readme file
 
-xxxxxxxxxxxxxx
-in the branch repo
+yyyyyyyyyyyyyy
+in the master repo
